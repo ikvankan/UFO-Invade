@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AndroidAccelerometr">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAqAAAAAAAAAAAAAAAAAAAIAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\__Scripts\AndroidAccelerometr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoundsCheck">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABEAAAICAAAAAABBAAAIAQKgAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\__Scripts\BoundsCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAIIAEAAQAAAIAIAABECAIQAIAIAAIABAAEg=</HashCode>
+      <FileName>Assets\__Scripts\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy_1">
+    <Position X="13.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAKAAAACCAAAEAAAAAABAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\__Scripts\Enemy_1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy_2">
+    <Position X="11.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAKAAQAACAAAAAAAAAEAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Assets\__Scripts\Enemy_2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy_3">
+    <Position X="9.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAKAAQAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\__Scripts\Enemy_3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Part">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAgAAAAAAAAAAAAQAAAAAAAEAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\__Scripts\Enemy_4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy_4">
+    <Position X="8" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAIQAKAAEAAAAAAAAAAAAEAEAAAIgAAAAAAEAIA=</HashCode>
+      <FileName>Assets\__Scripts\Enemy_4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hero">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Hero.WeaponFireDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\__Scripts\Hero.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAACAAABAAAARgIwCAAAAAAwAARAAAEASEAAA=</HashCode>
+      <FileName>Assets\__Scripts\Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main">
+    <Position X="4.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAGQAQAAIAAAgAAAAAAAUAAAAAAAAAhAAgAAACQCEA=</HashCode>
+      <FileName>Assets\__Scripts\Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parallax">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAQACAAAAABAAAAAIAAAAAAAAAAAAAAIQAAAAA=</HashCode>
+      <FileName>Assets\__Scripts\Parallax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PowerUp">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKQCAAAAAAAAQAACAgAAAAABEABBCEAQAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\__Scripts\PowerUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projectile">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAACAAAAAAACAAAAAAAABBAAAQAAAAAAAABEA=</HashCode>
+      <FileName>Assets\__Scripts\Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreCount">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAIAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\__Scripts\ScoreCount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shield">
+    <Position X="14.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAEAAAACAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\__Scripts\Shield.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utils">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\__Scripts\Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeaponDefinition">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAgAAAAAEAAAAABAECAAAQBAAAgAAA=</HashCode>
+      <FileName>Assets\__Scripts\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapon">
+    <Position X="16.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAQAAAAAgAAAAAAFAAAQAAEAgAABAIA=</HashCode>
+      <FileName>Assets\__Scripts\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="WeaponType">
+    <Position X="12.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAAAAAAAAAAAABAAAAAAAAAAAAAAAAAACEBAACAAA=</HashCode>
+      <FileName>Assets\__Scripts\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
